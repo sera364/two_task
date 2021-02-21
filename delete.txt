@@ -1,0 +1,8 @@
+there is two ways to delete 
+locally
+ writing command 
+git branch -d name of branch (dev or test)
+
+
+remotely
+by clicking delete on github itself
